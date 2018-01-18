@@ -5,5 +5,3 @@
 Anna Danh
 
 danh_anna@yahoo.com
-
-kn
