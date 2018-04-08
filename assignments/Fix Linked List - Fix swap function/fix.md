@@ -1,6 +1,5 @@
 
-// Anna Danh
-
+// Anna Danh 
 // Fixed Linked List - Fix swap function
 
 ``` cpp
