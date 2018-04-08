@@ -1,4 +1,4 @@
-``` cpp
+
 // Anna Danh
 // Fixed Linked List - Fix swap function
 
@@ -21,4 +21,3 @@
       temp = temp->next->next;
       }
     }
-```
